@@ -1,6 +1,6 @@
 # Hi there, I'm Varun Singh! 👋
 
-I'm a passionate Machine Learning Engineer with a keen interest in developing innovative solutions using cutting-edge technologies.
+I'm a dedicated Machine Learning Engineer driven by the quest for innovative solutions through advanced technologies.
 
 ## 🚀 About Me
 - 👀 I’m interested in Machine Learning, Data Science, and AI.
