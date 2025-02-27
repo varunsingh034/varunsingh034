@@ -6,7 +6,7 @@ I'm a passionate Machine Learning Engineer with a keen interest in developing in
 - 👀 I’m interested in Machine Learning, Data Science, and AI.
 - 🌱 I’m currently learning advanced deep learning techniques and model optimization.
 - 💞️ I’m looking to collaborate on exciting ML projects and research.
-- 📫 How to reach me: [Email](mailto:varunbaroliya034@gmail.com) | [LinkedIn](www.linkedin.com/in/varun-singh-651937258)
+- 📫 How to reach me: [Email](mailto:varunbaroliya034@gmail.com) | [LinkedIn]([www.linkedin.com/in/varun-singh-651937258](https://www.linkedin.com/in/varun-singh-651937258/))
 - ⚡ Fun fact: I love solving complex puzzles and watching anime.
 
 ## 🛠️ Skills
@@ -19,7 +19,7 @@ I'm a passionate Machine Learning Engineer with a keen interest in developing in
 - **Publications**: Published research papers in renowned journals on ML topics.
 
 ## 📫 Contact
-Feel free to reach out to me via [Email](mailto:varunbaroliya034@gmail.com) or connect with me on [LikedIn](https://www.linkedin.com/in/varunsingh034/).
+Feel free to reach out to me via [Email](mailto:varunbaroliya034@gmail.com) or connect with me on [LikedIn](https://www.linkedin.com/in/varun-singh-651937258/).
 
 ## 📊 GitHub Stats
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunsingh034&show_icons=true&theme=radical)
