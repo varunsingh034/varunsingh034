@@ -19,7 +19,7 @@ I'm a passionate Machine Learning Engineer with a keen interest in developing in
 - **Publications**: Published research papers in renowned journals on ML topics.
 
 ## 📫 Contact
-Feel free to reach out to me via [Email](varunbaroliya034@gmail.com) or connect with me on [LikedIn](https://www.linkedin.com/in/varunsingh034/).
+Feel free to reach out to me via [Email](mailto:varunbaroliya034@gmail.com) or connect with me on [LikedIn](https://www.linkedin.com/in/varunsingh034/).
 
 ## 📊 GitHub Stats
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunsingh034&show_icons=true&theme=radical)
