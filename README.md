@@ -6,7 +6,7 @@ I'm a passionate Machine Learning Engineer with a keen interest in developing in
 - 👀 I’m interested in Machine Learning, Data Science, and AI.
 - 🌱 I’m currently learning advanced deep learning techniques and model optimization.
 - 💞️ I’m looking to collaborate on exciting ML projects and research.
-- 📫 How to reach me: [Email](varunbaroliya034@gmail.com) | [LinkedIn](https://www.linkedin.com/in/varunsingh034/)
+- 📫 How to reach me: [Email](hhttps://varunbaroliya034@gmail.com) | [LinkedIn](https://www.linkedin.com/in/varunsingh034/)
 - ⚡ Fun fact: I love solving complex puzzles and watching anime.
 
 ## 🛠️ Skills
