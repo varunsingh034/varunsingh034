@@ -1,22 +1,17 @@
 # Hi there, I'm Varun Singh! 👋
 
-I'm a dedicated Machine Learning Engineer driven by the quest for innovative solutions through advanced technologies.
+I'm a dedicated Gen AI and Machine Learning Engineer driven by the quest for innovative solutions through advanced technologies.
 
 ## 🚀 About Me
-- 👀 I’m interested in Machine Learning, Data Science, and AI.
-- 🌱 I’m currently learning advanced deep learning techniques and model optimization.
+- 👀 I’m interested in Machine Learning, Data Science, and Gen AI.
+- 🌱 I’m currently learning advanced DL and LLMs.
 - 💞️ I’m looking to collaborate on exciting ML projects and research.
-- 📫 How to reach me: [Email](mailto:varunbaroliya034@gmail.com) | [LinkedIn](https://www.linkedin.com/in/varun-singh-651937258/)
 - ⚡ Fun fact: I love solving complex puzzles and watching anime.
 
 ## 🛠️ Skills
-- **Programming Languages**: Python, SQL
-- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Pandas, Numpy
+- **Programming Languages**: Python, SQL, HTML, CSS, C, C++, Javascript 
+- **Frameworks**: Lnagchain,Lnagsmith,Flask,TensorFlow, Scikit-Learn,Matplotlib, Seaborn, Pandas, Numpy
 - **Databases**: MySQL, PostgreSQL, MongoDB
-
-## 🏆 Achievements
-- **Kaggle Competitions**: Participated and ranked in top 10% in several Kaggle competitions.
-- **Publications**: Published research papers in renowned journals on ML topics.
 
 ## 📫 Contact
 Feel free to reach out to me via [Email](mailto:varunbaroliya034@gmail.com) or connect with me on [LikedIn](https://www.linkedin.com/in/varun-singh-651937258/).
