@@ -4,7 +4,7 @@ I'm a dedicated Gen AI and Machine Learning Engineer driven by the quest for inn
 
 ## 🚀 About Me
 - 👀 I’m interested in Machine Learning, Data Science, and Gen AI.
-- 🌱 I’m currently learning advanced DL and LLMs.
+- 🌱 I’m currently learning advanced DL, GenAI, Agentic AI and LLMs.
 - 💞️ I’m looking to collaborate on exciting ML projects and research.
 - ⚡ Fun fact: I love solving complex puzzles and watching anime.
 
