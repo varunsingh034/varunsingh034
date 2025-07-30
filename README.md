@@ -10,14 +10,11 @@ I'm a dedicated Gen AI and Machine Learning Engineer driven by the quest for inn
 
 ## 🛠️ Skills
 - **Programming Languages**: Python, SQL, HTML, CSS, C, C++, Javascript 
-- **Frameworks**: Lnagchain,Lnagsmith,Flask,TensorFlow, Scikit-Learn,Matplotlib, Seaborn, Pandas, Numpy
+- **Frameworks**: Lnagchain, Lnagsmith, Flask, TensorFlow, Scikit-Learn, Matplotlib, Seaborn, Pandas, Numpy, Django, React
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ## 📫 Contact
 Feel free to reach out to me via [Email](mailto:varunbaroliya034@gmail.com) or connect with me on [LikedIn](https://www.linkedin.com/in/varun-singh-651937258/).
-
-## 📊 GitHub Stats
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunsingh034&show_icons=true&theme=radical)
 
 <!---
 varunsingh034/varunsingh034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
